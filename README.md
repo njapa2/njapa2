@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @njapa2
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html css and git
+- 🌱 I’m currently learning html, css , javascript, Jquery , Bootstrap , php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
